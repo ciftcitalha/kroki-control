@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "mode": "normal",
+  "message": "Planlı bakım duyuruları burada görünecek.",
+  "min_version": "1.0.0",
+  "allowed": ["*"],
+  "blocked": [],
+  "updated": "2025-10-09T15:00:00Z",
+  "redirect_url": "https://tpao.gov.tr/"
+}
