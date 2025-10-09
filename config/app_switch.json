@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "mode": "hard_block",
+  "mode": "silent_fail",
   "message": "Erişim geçici olarak kapalı.",
   "min_version": "1.0.0",
   "allowed": ["*"],
