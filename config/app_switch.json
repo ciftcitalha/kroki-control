@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "mode": "silent_fail",
+  "enabled": true,
+  "mode": "normal",
   "message": "Tüm Özellikler aktif.",
   "min_version": "1.0.0",
   "max_offline_days": 0,                // ⬅️ yeni
