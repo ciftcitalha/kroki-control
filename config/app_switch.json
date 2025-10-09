@@ -1,7 +1,7 @@
 {
-  "enabled": true,
-  "mode": "normal",
-  "message": "Planlı bakım duyuruları burada görünecek.",
+  "enabled": false,
+  "mode": "maintenance",
+  "message": "Sistem güncelleniyor. Lütfen 22:00'de tekrar deneyin.",
   "min_version": "1.0.0",
   "allowed": ["*"],
   "blocked": [],
