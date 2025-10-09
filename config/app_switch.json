@@ -1,7 +1,7 @@
 {
   "enabled": false,
-  "mode": "maintenance",
-  "message": "Sistem güncelleniyor. Lütfen 22:00'de tekrar deneyin.",
+  "mode": "hard_block",
+  "message": "Erişim geçici olarak kapalı.",
   "min_version": "1.0.0",
   "allowed": ["*"],
   "blocked": [],
