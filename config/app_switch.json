@@ -1,11 +1,9 @@
+
 {
   "enabled": true,
-  "mode": "normal",
-  "message": "Tüm Özellikler aktif.",
-  "min_version": "1.0.0",
-  "max_offline_days": 7,                // ⬅️ yeni
-  "allowed": ["*"],
-  "blocked": [],
-  "updated": "2025-10-09T15:00:00Z",
-  "redirect_url": "https://tpao.gov.tr/"
+  "max_offline_days": 7,
+  "min_version": "1.4.0",
+  "allowlist": [],
+  "denylist": [],
+  "message": "Bakım penceresi 12:00-13:00"
 }
