@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "max_offline_days": 0,
+  "enabled": true,
+  "max_offline_days": 7,
   "min_version": null,
   "allowlist": [],
   "denylist": [],
