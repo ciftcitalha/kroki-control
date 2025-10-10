@@ -3,7 +3,7 @@
   "mode": "normal",
   "message": "Tüm Özellikler aktif.",
   "min_version": "1.0.0",
-  "max_offline_days": 0,                // ⬅️ yeni
+  "max_offline_days": 7,                // ⬅️ yeni
   "allowed": ["*"],
   "blocked": [],
   "updated": "2025-10-09T15:00:00Z",
