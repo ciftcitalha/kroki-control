@@ -2,7 +2,7 @@
   "enabled": true,
   "max_offline_days": 7,
   "min_version": null,
-  "allowlist": [],
+  "allowlist": ["f4e9bd0050055841a7e94d7bd0ede8ee"],
   "denylist": [],
   "message": "HATA"
 }
